@@ -9,6 +9,7 @@ We have 3 files:
 3 Gausiian class
 
 # Installation
+pre-requisites = matplotlib
 pip install probality-distributions
 
 
